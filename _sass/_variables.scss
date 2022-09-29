@@ -33,8 +33,8 @@ $green                      : mix(#000, #c0392b, 15%);
 $theme-color                : $green;
 $gray                       : #7a8288 !default;
 
-$body-color                 : #fff !default;
-$background-color           : #fff !default;
+$body-color                 : #fc5c65 !default;
+$background-color           : #fc5c65 !default;
 $code-background-color      : mix(#fff, $gray, 90%) !default;
 $blockquote-background-color: mix(#fff, $gray, 90%) !default;
 $text-color                 : #404040 !default;
@@ -43,7 +43,7 @@ $border-color               : #b2b2b2 !default;
 
 /* links */
 $link-color                 : $theme-color !default;
-$link-color-hover           : mix(#fff, $link-color, 40%) !default; 
+$link-color-hover           : mix(#fff, $link-color, 40%) !default;
 $link-color-visited         : mix(#000, $link-color, 25%) !default;
 $entry-link-color           : $text-color !default;
 $entry-link-color-hover     : $theme-color !default;

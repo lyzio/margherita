@@ -176,7 +176,7 @@ blockquote cite {
   margin-top: 5px;
   text-align: right;
 }
- 
+
 blockquote cite:before {
   content: "\2014 \2009";
 }
@@ -197,7 +197,7 @@ a {
   &:active {
     outline: 0;
   }
-  
+
   &:hover { color: $link-color-hover; }
   &:hover > image { opacity: 0.7; }
 }
@@ -363,7 +363,7 @@ svg:not(:root) {
  *    </ul>
  *  </nav>
  */
- 
+
 nav {
   ul {
     margin: 0;
