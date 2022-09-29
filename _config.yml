@@ -1,0 +1,19 @@
+---
+title: margherita.se
+baseurl: "/"
+desc: Amante della pizza.
+about: I love pizza.
+image:
+excerpt_separator: "<!-- more -->"
+markdown: kramdown
+gems:
+- jekyll-paginate
+exclude:
+  - .jekyll-metadata
+  - README.md
+  - CNAME
+paginate: 5
+paginate_path: "/:num/"
+highlighter: rouge
+permalink: pretty
+destination: "/gh-pages/"

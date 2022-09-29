@@ -1,2 +1,1 @@
-# margherita
-Blog for margherita.se
+# margherita.se
