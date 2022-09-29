@@ -20,6 +20,8 @@ Som en första review på en margherita tar jag mig till Osby. Torggrillen i Osb
 
 Nu är det dock inte pizzerian som ska recenseras utan deras margherita. Därför börjar vi med en bild på deras kreation som de kallar en margherita, vi har här en bild på deras pizza.
 
+![torggrillen-pizza](img/https://i.imgur.com/4u02h5o.jpg)
+
 ## Genomgång av pizzan
 
 Till att börja med så kan vi inspektera själva intrycket av pizzan, generellt så kan se att det finns en avsaknad av färsk basilika, men även en avsaknad av mozzarella. Osten som används är en traditionell odefinierad ”pizzaost”. Detta är inget som de är ensamma med, då de flesta som serverar pizza av svensk stil lämnar ofta dessa viktiga ingredienser och ser denna pizza som en ”baspizza” som inte har något innehåll istället för en möjlighet att visa upp sina färdigheter på något som är både busenkelt, och extremt svårt.
