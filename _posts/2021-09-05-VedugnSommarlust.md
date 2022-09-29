@@ -9,9 +9,8 @@ headerimage:
 sitemap:
   lastmod: 2021-09-05T07:00:00+00:00
 url: /vedugn-sommarlust-kristianstad/
-feature-img: "/"
 tags:
-  - kristianstad, svensk stil
+  - "osby", "svensk stil"
 ---
 
 När jag först skulle beställa en Margherita från Vedugn Sommarlust i Kristianstad, bara namnet gav ju en del förhoppningar, så hade jag höga förhoppningar. De skriver på sin hemsida att det är vedugnsbakade pizzor, och bilderna visar fina pizzor bland annat med basilika.

@@ -9,9 +9,8 @@ headerimage:
 sitemap:
   lastmod: 2021-08-22T07:00:00+00:00
 url: /torggrillen-i-osby
-feature-img: "/"
 tags:
-  - osby, svensk stil
+  - "osby", "svensk stil"
 ---
 
 ## Torggrillen, en traditionell svensk pizza i Osby

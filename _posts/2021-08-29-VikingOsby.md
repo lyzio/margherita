@@ -9,9 +9,8 @@ headerimage:
 sitemap:
   lastmod: 2021-08-29T07:00:00+00:00
 url: /pizzeria-viking-i-osby/
-feature-img: "/"
 tags:
-  - osby, svensk stil
+  - "osby", "svensk stil"
 ---
 
 ## God pizza på Viking i Osby, men margherita?
