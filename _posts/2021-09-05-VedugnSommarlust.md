@@ -10,7 +10,7 @@ sitemap:
   lastmod: 2021-09-05T07:00:00+00:00
 url: /vedugn-sommarlust-kristianstad/
 tags:
-  - osby
+  - kristianstad
   - svensk
 ---
 
