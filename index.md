@@ -1,8 +1,8 @@
 ---
 layout: home
 comments: false
-seotitle: nerdocracy
-description: Nerdy blog about quite nisch interests.
+seotitle: margherita
+description: amante della pizza
 ---
 
 Introduction
