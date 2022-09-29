@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "Blog"
+  - title: "Recensioner"
     url: /blog
-  - title: "Submenu"
+  - title: "Extras"
     url: /
     children:
-      - title: "Sitemap"
+      - title: "Sidkarta"
         url: /sitemap.xml
       - title: "RSS"
         url: /feed.xml
