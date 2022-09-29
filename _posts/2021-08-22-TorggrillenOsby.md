@@ -20,7 +20,7 @@ Som en första review på en margherita tar jag mig till Osby. Torggrillen i Osb
 
 Nu är det dock inte pizzerian som ska recenseras utan deras margherita. Därför börjar vi med en bild på deras kreation som de kallar en margherita, vi har här en bild på deras pizza.
 
-![torggrillen-pizza](img/https://i.imgur.com/4u02h5o.jpg)
+![torggrillen-pizza](https://i.imgur.com/4u02h5o.jpg)
 
 ## Genomgång av pizzan
 

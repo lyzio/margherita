@@ -20,6 +20,8 @@ Vi börjar alltså tämligen bra, tyvärr så blev det inte riktigt så som jag 
 
 Däremot så hade de ju en bra ost, en bra botten även om den kanske var lite i det tjockaste laget. För att få den optimala ration mellan tomatsås, ost och basilika så behövs det en tunnare botten än vad som erbjöds.
 
+![Vedugn-Sommarlust](https://i.imgur.com/kSDQpLx.jpg)
+
 ## Genomgång av pizzan
 
 Men vi tar lite i taget tänker jag. Vi börjar med botten: Jag gillade själva degen, men den var som sagt lite tjock. Det var dessutom rätt gott med lite ”karaktär” i form av lite hint av bränd fläck på kanten.

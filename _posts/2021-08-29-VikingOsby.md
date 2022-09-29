@@ -22,6 +22,8 @@ De flesta pizzerior i Osby har en svensk stil på sina pizzor och ingen har änn
 
 Hur är då pizzorna på Viking? Jodå, de är helt ätbara även om de nog kanske inte är de jag skulle påstå vara de bästa i Osby. Ett stort minus är hur flott pizzan är i förhållande till vad man med dagens mått begär.
 
+![Viking-Osby](https://i.imgur.com/QprL265.jpg)
+
 ## Genomgång av pizzan.
 
 Vi början med pizzans utkant, kanterna. Faktiskt lite av en besvikelse då den är betydligt mjukare än vad jag själv förväntar mig av en pizza. Man vill ha en spröd kant som man sen kanske kan dippa i något gott.
