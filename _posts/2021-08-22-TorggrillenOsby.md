@@ -8,7 +8,7 @@ updated: 2021-08-22T07:00:00+00:00
 headerimage:
 sitemap:
   lastmod: 2021-08-22T07:00:00+00:00
-url: /torggrillen-i-osby
+url: /torggrillen-i-osby/
 tags:
   - osby
   - svensk
