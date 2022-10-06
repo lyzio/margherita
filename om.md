@@ -1,7 +1,7 @@
 ---
 layout: page
 title: om
-permalink: /about/
+permalink: /om/
 ---
 
 På margherita.se så recenserar jag pizzor runt om i landet för att hitta de pizzorna som är av högsta kvaliteten. Jag har alltid varit av åsikten att det är svårt att göra en riktigt bra pizza om man inte först kan göra en riktigt bra margherita.
