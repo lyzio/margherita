@@ -1,0 +1,27 @@
+---
+---
+
+@import
+  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
+  "minima/initialize";
+
+body {
+ background-color: #fc5c65;
+ color: #fdfdfd;
+}
+
+.post-list {
+  color: #fdfdfd;
+}
+
+a:visited {
+color: #fdfdfd
+}
+
+a {
+color: #fdfdfd
+}
+
+a:hover {
+color: #26de81
+}
