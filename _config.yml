@@ -13,9 +13,9 @@ show_excerpts: true # set to true to show excerpts on the homepage
 minima:
   date_format: "%b %-d, %Y"
 
-  # generate social links in footer
-  social_links:
-    twitter: lyzio_swe
+# generate social links in footer
+  # social_links:
+    # twitter: lyzio_swe
     # github:
     # devto: jekyll
     # dribbble: jekyll
