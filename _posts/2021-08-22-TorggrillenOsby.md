@@ -14,8 +14,6 @@ tags:
   - svensk
 ---
 
-## Torggrillen, en traditionell svensk pizza i Osby
-
 Som en första review på en margherita tar jag mig till Osby. Torggrillen i Osby ligger centralt på torget och har funnits i alla tider. Åtminstone så länge alla ungdomar i bygden kan minnas. De serverar klassisk svensk pizza på en stor meny med mycket variation. Du kan hitta allt ifrån en klassisk kebabpizza till en så kallad plankpizza.
 
 Nu är det dock inte pizzerian som ska recenseras utan deras margherita. Därför börjar vi med en bild på deras kreation som de kallar en margherita, vi har här en bild på deras pizza.
