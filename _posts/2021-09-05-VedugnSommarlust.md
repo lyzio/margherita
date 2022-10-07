@@ -1,9 +1,9 @@
 ---
+type: post
 seotitle:  Vedugn Sommarlust i Kristianstad en recension från Margherita.se
 title: Vedugn Sommarlust i Kristianstad
 description: Vedugn Sommarlust i Kristianstad hade en god pizza, men det fanns goda möjligheter till förbättring med enkla medel. Men ett bra val för bra pris.
 author: Oliver
-type: post
 updated: 2021-09-05T07:00:00+00:00
 headerimage:
 sitemap:
