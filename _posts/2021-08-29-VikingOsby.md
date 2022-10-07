@@ -14,8 +14,6 @@ tags:
   - svensk
 ---
 
-## God pizza på Viking i Osby, men margherita?
-
 Nästa pizza som ska tas till domarbordet är den från Pizzeria Viking i Osby. Viking ligger precis vid stationen och är lätt att hitta till, och ett bra läge är perfekt för den som är strandsatt efter ett tågstopp eller liknande.
 
 De flesta pizzerior i Osby har en svensk stil på sina pizzor och ingen har ännu riktigt kommit till skott att introducera bygden till de riktigt härliga napolitanska pizzorna. Visst det är svårare, men ack så mycket godare.
