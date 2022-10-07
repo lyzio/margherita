@@ -10,7 +10,7 @@ body {
  color: #fdfdfd;
 }
 
-.site-title, .site-title:visited {
+a.site-title, .site-title:visited {
   color: #fdfdfd;
   font-weight: bolder;
   letter-spacing: 0.02em;
@@ -20,23 +20,32 @@ body {
   color: #fdfdfd;
 }
 
-.post-link {
-color: #fdfdfd
+a.post-link {
+color: #fdfdfd;
+}
+
+.site-footer {
+  border-top: 0px;
+}
+
+.site-header {
+  border-top: 10px solid #fdfdfd;
+  border-bottom: 0px;
 }
 
 a:visited {
-color: #fdfdfd
+color: #fdfdfd;
 }
 
 a:hover {
-color: #26de81
+color: #26de81;
 }
 
-.orange {
-  color: #fdfdfd;
+.svg-icon {
+  fill: #fdfdfd;
 }
 
-.footer-col-wrapper, .social-links {
+.p-name {
   font-size: 0.9375rem;
   color: #fdfdfd;
 }
