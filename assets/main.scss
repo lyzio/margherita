@@ -33,19 +33,28 @@ color: #fdfdfd;
   border-bottom: 0px;
 }
 
-a:visited {
-color: #fdfdfd;
-}
+/**
+ * Links
+ */
 
-a:hover {
-color: #26de81;
-}
+a {
+  color: $link-base-color;
+  text-decoration: none;
 
-.svg-icon {
-  fill: #fdfdfd;
-}
+  &:visited {
+    color: #fdfdfd;
+  }
 
-.p-name {
-  font-size: 0.9375rem;
-  color: #fdfdfd;
+  &:hover {
+    color: #fdfdfd;
+    text-decoration: underline;
+  }
+
+  .social-media-list &:hover {
+    text-decoration: none;
+
+    .username {
+      text-decoration: underline;
+    }
+  }
 }
