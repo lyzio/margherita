@@ -10,18 +10,33 @@ body {
  color: #fdfdfd;
 }
 
-.post-list {
+.site-title, .site-title:visited {
   color: #fdfdfd;
+  font-weight: bolder;
+  letter-spacing: 0.02em;
+}
+
+.post-meta {
+  color: #fdfdfd;
+}
+
+.post-link {
+color: #fdfdfd
 }
 
 a:visited {
 color: #fdfdfd
 }
 
-a {
-color: #fdfdfd
-}
-
 a:hover {
 color: #26de81
+}
+
+.orange {
+  color: #fdfdfd;
+}
+
+.footer-col-wrapper, .social-links {
+  font-size: 0.9375rem;
+  color: #fdfdfd;
 }
