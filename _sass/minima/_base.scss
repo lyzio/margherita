@@ -121,8 +121,9 @@ a {
   }
 
   &:hover {
-    color: $link-hover-color;
-    text-decoration: underline;
+  /*   color: $link-hover-color;
+    text-decoration: underline; */
+    color: #ffc048;
   }
 
   .social-media-list &:hover {
