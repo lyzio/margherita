@@ -10,7 +10,7 @@ body {
  color: #fdfdfd;
 }
 
-a.site-title, .site-title:visited {
+a.site-title, a.site-title:visited {
   color: #fdfdfd;
   font-weight: bolder;
   letter-spacing: 0.02em;
@@ -20,7 +20,7 @@ a.site-title, .site-title:visited {
   color: #fdfdfd;
 }
 
-a.post-link {
+a.post-link, a.post-link:visited {
 color: #fdfdfd;
 }
 
@@ -31,6 +31,14 @@ color: #fdfdfd;
 .site-header {
   border-top: 10px solid #fdfdfd;
   border-bottom: 0px;
+}
+
+li.p-name {
+  color: #fdfdfd;
+}
+
+svg {
+  fill: #fdfdfd;
 }
 
 /**
