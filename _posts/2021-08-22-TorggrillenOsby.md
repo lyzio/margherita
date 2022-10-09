@@ -1,5 +1,5 @@
 ---
-type: post
+layout: post
 seotitle:  Torggrillen i Osby en recension från margherita.se
 title: Torggrillen i Osby
 description: Torggrillen i Osby serverar pizza av Svensk stil till lunch och snabba filmkvällar. Däremot saknar de en riktig margherita.
