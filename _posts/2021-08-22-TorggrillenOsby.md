@@ -1,17 +1,17 @@
 ---
 type: post
-# seotitle:  Torggrillen i Osby en recension från margherita.se
-# title: Torggrillen i Osby
-# description: Torggrillen i Osby serverar pizza av Svensk stil till lunch och snabba filmkvällar. Däremot saknar de en riktig margherita.
-# author: Oliver
-# updated: 2021-08-22T07:00:00+00:00
-# headerimage:
-# sitemap:
-#   lastmod: 2021-08-22T07:00:00+00:00
-# url: /torggrillen-i-osby/
-# tags:
-#   - osby
-#   - svensk
+seotitle:  Torggrillen i Osby en recension från margherita.se
+title: Torggrillen i Osby
+description: Torggrillen i Osby serverar pizza av Svensk stil till lunch och snabba filmkvällar. Däremot saknar de en riktig margherita.
+author: Oliver
+updated: 2021-08-22T07:00:00+00:00
+headerimage:
+sitemap:
+  lastmod: 2021-08-22T07:00:00+00:00
+url: /torggrillen-i-osby/
+tags:
+  - osby
+  - svensk
 ---
 
 Som en första review på en margherita tar jag mig till Osby. Torggrillen i Osby ligger centralt på torget och har funnits i alla tider. Åtminstone så länge alla ungdomar i bygden kan minnas. De serverar klassisk svensk pizza på en stor meny med mycket variation. Du kan hitta allt ifrån en klassisk kebabpizza till en så kallad plankpizza.
