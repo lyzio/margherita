@@ -2,8 +2,12 @@
 ---
 
 @import
-  "minima/skins/{{ site.minima.skin | default: 'dark' }}",
+  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
+
+$brand-color: #fdfdfd;
+$link-visited-color: #fdfdfd;
+$link-base-color: #fdfdfd;
 
 body {
  background-color: #fc5c65;
@@ -37,8 +41,14 @@ li.p-name {
   color: #fdfdfd;
 }
 
-svg {
+svg.svg-icon.orange {
   fill: #fdfdfd;
+  color: #fdfdfd;
+}
+
+svg.svg-icon.grey {
+  fill: #fdfdfd;
+  color: #fdfdfd;
 }
 
 /**
