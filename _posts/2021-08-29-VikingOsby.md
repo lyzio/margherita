@@ -1,5 +1,5 @@
 ---
-type: post
+layout: post
 seotitle:  Pizzeria Viking i Osby en recension från margherita.se
 title: Viking i Osby
 description: Viking är en störe pizzeria I Osby som har en bra servering för den som vill sitta och äta något som är halvbra gjort, och passar stilen.
