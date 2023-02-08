@@ -1,7 +1,7 @@
 ---
 layout: post
 seotitle:  Pizzeria Bari i Linkpöping en recension från margherita.se
-title: Pizzeria Bari i Linkpöping
+title: Pizzeria Bari i Linköping
 description:
 
 author: Oliver
