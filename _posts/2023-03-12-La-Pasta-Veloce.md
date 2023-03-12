@@ -1,38 +1,40 @@
 ---
 layout: post
-seotitle:  Torggrillen i Osby en recension från margherita.se
-title: Torggrillen i Osby
-description: Torggrillen i Osby serverar pizza av Svensk stil till lunch och snabba filmkvällar. Däremot saknar de en riktig margherita.
+seotitle:  La Pasta Veloce på Emporia på Hyllie en recension från margherita.se
+title: La Pasta Veloce på Hyllie
+description: La Pasta Veloce på Emporia på Hyllie utger sig för riktig italiensk pizza men faller på målsnöret.
 author: Oliver
-updated: 2021-08-22T07:00:00+00:00
+updated: 2023-03-12T07:00:00+00:00
 headerimage:
 sitemap:
-  lastmod: 2021-08-22T07:00:00+00:00
-url: /torggrillen-i-osby/
+  lastmod: 2023-03-12T07:00:00+00:00
+url: /La-Pasta-Veloce-i-hyllie/
 tags:
   - osby
   - svensk
+  - italiensk
 ---
 
-Som en första review på en margherita tar jag mig till Osby. Torggrillen i Osby ligger centralt på torget och har funnits i alla tider. Åtminstone så länge alla ungdomar i bygden kan minnas. De serverar klassisk svensk pizza på en stor meny med mycket variation. Du kan hitta allt ifrån en klassisk kebabpizza till en så kallad plankpizza.
+La Pasta Veloce på Emporia blev faktiskt en riktig besvikelse, inte direkt för att det var en pizza som inte höll måttet utan för att de marknadsförde den som att den skulle göra det. Menyn säger "Margherita - Tomatsås, Mozarella, Basilika" det låter ju såklart perfekt.
 
-Nu är det dock inte pizzerian som ska recenseras utan deras margherita. Därför börjar vi med en bild på deras kreation som de kallar en margherita, vi har här en bild på deras pizza.
+Om den hade haft det innehållet. Inte ser jag någon basilika på pizzan? När jag fick den så frågade jag dessutom om det inte saknades basilika varpå jag fick svaret "det är i såsen, vi har ingen färsk. Inga blad." Det svaret gjorde ju att man onekligen blir lite besviken på vad man har köpt. 
 
-![torggrillen-pizza](https://i.imgur.com/4u02h5o.jpg)
+![la-pasta-veloce-pizza](https://imgur.com/uycDouz.jpg)
 
 ## Genomgång av pizzan
 
-Till att börja med så kan vi inspektera själva intrycket av pizzan, generellt så kan se att det finns en avsaknad av färsk basilika, men även en avsaknad av mozzarella. Osten som används är en traditionell odefinierad ”pizzaost”. Detta är inget som de är ensamma med, då de flesta som serverar pizza av svensk stil lämnar ofta dessa viktiga ingredienser och ser denna pizza som en ”baspizza” som inte har något innehåll istället för en möjlighet att visa upp sina färdigheter på något som är både busenkelt, och extremt svårt.
+Men vi börjar vår genomgång med att säga, det var en bra tomatsås, pizzan var inte speciellt flottig heller vilket helt klart är en bonus. Var god smak på tomatsåsen, lagom krämig, kunde kanske vara lite "hetta" i den för att kompensera för tomatens sötma. Däremot kände jag inte någon basilika i tomatsåsen som de ändå utryckligen sa den innehöll.
 
-Därefter kan vi kolla på andra delar av pizzan, det är en god tomatsås som har en tydlig smak av tomat och inte lämnar allt för mycket andra smaker i sig. Degen är även den till belåtenhet, åtminstone om man kollar på för att jämföra med andra av svensk stil. Det är såklart inte jämförbart med de av napolitansk stil då det är olika degar.
+Osten sen, ordentligt med mozarella så inget fel på den. Tror nog det var någon annan lite mer vanlig "pizzaost" också men tycker inte det sänker betyget. Det gör snarare osten lite mer fast samtidigt som du har krämigheten från mozarellan.
 
-Det är på intet sätt en hemsk pizza, den innehåller ost och tomatsås vilket aldrig kan bli en dålig kombination. Men är det en margherita? Nej! En pizza som saknar både mozzarella och basilika kan inte tyvärr inte få högre betyg då den saknar ingredienser. Dock är det fortfarande en god pizza.
+Sen har vi ju det där med basilikan, honestly ni säger att den har det men ändå skippar ni det? Detta är lite av en extra dealbreaker för mig, en sak att skippa och inte utge sig för att ha det. Att göra en margherita fel för man inte vet bättre är en sak, men att göra den fel medvetet då är det nästan brottsligt.
+
 Betyg på Margherita: 2/5
 
 ## Förbättringspotential
 
-Hur hade de då kunnat förbättra sin margherita, och kanske överlag förbättra hela sin inrättning? Ett första steg är att öka upp kvaliteten på sina råvaror. Detta kräver såklart ett höjt pris ut till kunder, men de senaste åren har många börjat acceptera och godta högre pris om det gör högre kvalitet.
+Att använda basilika hade onekligen gjrot att vi helt plötstligt hade hamnat på iaf en trea, men kanske även en riktigt stark sådan.
 
 ## Rekommendation
 
-Hade jag få rekommenderat pizzerian? Ja det hade jag, kanske inte om man är på jakt efter en riktigt schysst finpizza. Men är du på jakt efter en enkel svensk pizza för filmkvällen så är det ett bra val.
+Använd basilika! Vi har ett hak som ligger på Foodcourten på Emporia, ett riktigt bra stråk där man kan få gott om kunder. Så bör inte vara några problem att få ihop en riktigt bra pizza, för kunderna kommer mest sannolikt att betala för det också. Pizzan i sig var billigare än de flesta restauranger runt omkring, så ingen hade nog haft några problem med en tia eller tjuga mer.
