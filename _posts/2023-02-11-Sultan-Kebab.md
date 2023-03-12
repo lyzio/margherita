@@ -1,38 +1,39 @@
 ---
 layout: post
-seotitle:  Torggrillen i Osby en recension från margherita.se
-title: Torggrillen i Osby
-description: Torggrillen i Osby serverar pizza av Svensk stil till lunch och snabba filmkvällar. Däremot saknar de en riktig margherita.
+seotitle:  Sultan Kebab på Hyllie en recension från margherita.se
+title: Sultan Kebab på Hyllie
+description: Sultan Kebab på Hyllie serverar pizza av Svensk stil till lunch och snabba filmkvällar. Däremot saknar de en riktig margherita.
 author: Oliver
-updated: 2021-08-22T07:00:00+00:00
+updated: 2023-02-11T07:00:00+00:00
 headerimage:
 sitemap:
-  lastmod: 2021-08-22T07:00:00+00:00
-url: /torggrillen-i-osby/
+  lastmod: 2023-02-11T07:00:00+00:00
+url: /sultankebab-pa-hyllie/
 tags:
   - osby
   - svensk
 ---
 
-Som en första review på en margherita tar jag mig till Osby. Torggrillen i Osby ligger centralt på torget och har funnits i alla tider. Åtminstone så länge alla ungdomar i bygden kan minnas. De serverar klassisk svensk pizza på en stor meny med mycket variation. Du kan hitta allt ifrån en klassisk kebabpizza till en så kallad plankpizza.
+En kväll i februari kände jag mig lite sugen på en pizza, och då utbudet på Hyllie inte är något extremt så blev en pizza från en hak vid stationstorget. 
 
-Nu är det dock inte pizzerian som ska recenseras utan deras margherita. Därför börjar vi med en bild på deras kreation som de kallar en margherita, vi har här en bild på deras pizza.
+En klassisk och traditionell svensk pizza så som vi blivit vana vid den, tyvärr kommer jag nog inte handla supermycker från med. Har provat deras falafel sedan tidigare som inte riktigt höll måttet och med en subpar Margherita så är nog tyvärr kistan i spiken slagen att jag inte äter där.
 
-![torggrillen-pizza](https://i.imgur.com/4u02h5o.jpg)
+![sultan--pizza](https://imgur.com/VYsaq5Y.jpg)
 
 ## Genomgång av pizzan
 
-Till att börja med så kan vi inspektera själva intrycket av pizzan, generellt så kan se att det finns en avsaknad av färsk basilika, men även en avsaknad av mozzarella. Osten som används är en traditionell odefinierad ”pizzaost”. Detta är inget som de är ensamma med, då de flesta som serverar pizza av svensk stil lämnar ofta dessa viktiga ingredienser och ser denna pizza som en ”baspizza” som inte har något innehåll istället för en möjlighet att visa upp sina färdigheter på något som är både busenkelt, och extremt svårt.
+Vi börjar på en enkel genomgång av pizzan, som vi kan se har den tomtatsås och ost. Detta är väl de två ingredienser som de flesta brukar ha och precis som många i sällskapet av dessa pizzerior så saknas det både basilika och mozzarella.
 
-Därefter kan vi kolla på andra delar av pizzan, det är en god tomatsås som har en tydlig smak av tomat och inte lämnar allt för mycket andra smaker i sig. Degen är även den till belåtenhet, åtminstone om man kollar på för att jämföra med andra av svensk stil. Det är såklart inte jämförbart med de av napolitansk stil då det är olika degar.
+De har en klassisk så kallad pizzaost, vad det nu ska vara den hör inte hemma på en pizza åtminstone. Eller ja det kan den såklart göra men inte om den inte kombineras med en bra mozzarella som kompenserar upp smakerna.
 
-Det är på intet sätt en hemsk pizza, den innehåller ost och tomatsås vilket aldrig kan bli en dålig kombination. Men är det en margherita? Nej! En pizza som saknar både mozzarella och basilika kan inte tyvärr inte få högre betyg då den saknar ingredienser. Dock är det fortfarande en god pizza.
-Betyg på Margherita: 2/5
+Slutar på en ganska svag etta.
+
+Betyg på Margherita: 1/5
 
 ## Förbättringspotential
 
-Hur hade de då kunnat förbättra sin margherita, och kanske överlag förbättra hela sin inrättning? Ett första steg är att öka upp kvaliteten på sina råvaror. Detta kräver såklart ett höjt pris ut till kunder, men de senaste åren har många börjat acceptera och godta högre pris om det gör högre kvalitet.
+Vi kan börja med att använda de ingredienser som krävs för en riktig margherita, sen kan vi såklart börja diskutera att få upp poängen här lite mer. Ska hålla utkik på deras meny och om de någon gång börjar skriva de har basilika och mozzarella så kanske det blir ett nytt besök.
 
 ## Rekommendation
 
-Hade jag få rekommenderat pizzerian? Ja det hade jag, kanske inte om man är på jakt efter en riktigt schysst finpizza. Men är du på jakt efter en enkel svensk pizza för filmkvällen så är det ett bra val.
+Mozzarella och basilika, saknas men kan trots allt vara gott till kvällen om man inte har några större krav på sin kvällsmat.

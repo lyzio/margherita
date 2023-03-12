@@ -25,7 +25,7 @@ Om den hade haft det innehållet. Inte ser jag någon basilika på pizzan? När 
 
 Men vi börjar vår genomgång med att säga, det var en bra tomatsås, pizzan var inte speciellt flottig heller vilket helt klart är en bonus. Var god smak på tomatsåsen, lagom krämig, kunde kanske vara lite "hetta" i den för att kompensera för tomatens sötma. Däremot kände jag inte någon basilika i tomatsåsen som de ändå utryckligen sa den innehöll.
 
-Osten sen, ordentligt med mozarella så inget fel på den. Tror nog det var någon annan lite mer vanlig "pizzaost" också men tycker inte det sänker betyget. Det gör snarare osten lite mer fast samtidigt som du har krämigheten från mozarellan.
+Osten sen, ordentligt med mozzarella så inget fel på den. Tror nog det var någon annan lite mer vanlig "pizzaost" också men tycker inte det sänker betyget. Det gör snarare osten lite mer fast samtidigt som du har krämigheten från mozzarella.
 
 Sen har vi ju det där med basilikan, honestly ni säger att den har det men ändå skippar ni det? Detta är lite av en extra dealbreaker för mig, en sak att skippa och inte utge sig för att ha det. Att göra en margherita fel för man inte vet bättre är en sak, men att göra den fel medvetet då är det nästan brottsligt.
 
@@ -35,6 +35,10 @@ Betyg på Margherita: 2/5
 
 Att använda basilika hade onekligen gjrot att vi helt plötstligt hade hamnat på iaf en trea, men kanske även en riktigt stark sådan.
 
+Använd basilika! Vi har ett hak som ligger på Foodcourten på Emporia, ett riktigt bra stråk där man kan få gott om kunder. Så bör inte vara några problem att få ihop en riktigt bra pizza, för kunderna kommer mest sannolikt att betala för det också. Pizzan i sig var billigare än de flesta restauranger runt omkring, så ingen hade nog haft några problem med en tia eller tjuga mer.
+
 ## Rekommendation
 
-Använd basilika! Vi har ett hak som ligger på Foodcourten på Emporia, ett riktigt bra stråk där man kan få gott om kunder. Så bör inte vara några problem att få ihop en riktigt bra pizza, för kunderna kommer mest sannolikt att betala för det också. Pizzan i sig var billigare än de flesta restauranger runt omkring, så ingen hade nog haft några problem med en tia eller tjuga mer.
+Helt klart värt att besöka om man inte har några krav på sin margherita, de ligger centralt i hyllie och de är otroligt trevliga. De har inte någon äkta margherita, men om de slänger på lite basilika så pratar vi en stark trea.
+
+Har man lite basilika hemma så är det helt klart värt att slänga på den själv för att dra upp betyget. Men det betyger får man ju själv.
