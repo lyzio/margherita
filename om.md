@@ -11,7 +11,7 @@ Låt oss säga att jag gillar en riktigt bra margherita. konungen av alla pizzas
 Så som en litten hobby så är tanken att jag utan alla dessa integritetskränkande funktioner som vanliga bloggverktyg i grunden samlar in lägga upp lite recensioner på de margheritas som jag prövar. Både för andra att läsa innan de hittar sin nya pizzeria, eller för mig själv att komma ihåg vart jag vill eller inte gå när minnet sviker.
 
 ### Vem är jag?
-Jag, författaren eller den jäveln som gnäller över innehållet i en pizza, heter Oliver är väl lite av en nörd som inte riktigt klarar av att göra något halvhjärtat. Pizza är en evig passion, precis som många andra grejer (vilka visserligen förtjänar att skrivas om, men de hamnar på min andra mindre nischade sida nerdocracy), och även om jag inte på något sätt försöker göra det professionellt så är det alltid roligt att höra om någon hittat en bra pizza efter ett tips. Såfall kan man alltid höra av sig till mig på twitter, där jag nickar "lyzio_swe"
+Jag, författaren eller den jäveln som gnäller över innehållet i en pizza, heter Oliver är väl lite av en nörd som inte riktigt klarar av att göra något halvhjärtat. Pizza är en evig passion, precis som många otroligt många andra nördiga ämnen, och även om jag inte på något sätt försöker göra det professionellt så är det alltid roligt att höra om någon hittat en bra pizza efter ett tips. Såfall kan man alltid höra av sig till mig på twitter, där jag nickar "lyzio_swe"
 
 ## Vad gör en Margherita?
 
